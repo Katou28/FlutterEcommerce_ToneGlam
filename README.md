@@ -101,6 +101,7 @@ lib/
 - `flutter_local_notifications`: Notification handling
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Contributing
 
 1. Fork the repository
@@ -112,13 +113,19 @@ lib/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+>>>>>>> abc203b95a89e1ea19cd0a82d494caad3743c39b
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Facebook -https://www.facebook.com/josue.cuarezsalon
 
+
+<<<<<<< HEAD
 Project Link: [https://github.com/yourusername/toneglam](https://github.com/yourusername/toneglam)
 =======
 ## Contact
 [@Facebook](https://www.facebook.com/josue.cuarezsalon)
 >>>>>>> f42ab689ac8179b8122232d52e74b23145779198
+=======
+>>>>>>> abc203b95a89e1ea19cd0a82d494caad3743c39b
