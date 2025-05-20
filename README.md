@@ -30,6 +30,27 @@ ToneGlam is a modern beauty and makeup application built with Flutter, designed 
   - Responsive design
   - Material Design implementation
 
+## Screenshots
+
+<div align="center">
+  <div>
+    <img src="screenshots/login.jfif" alt="Login Screen" width="200"/>
+    <p><b>Login Screen</b><br>Secure authentication with email and password</p>
+  </div>
+  <div>
+    <img src="screenshots/profile.jfif" alt="Profile Screen" width="200"/>
+    <p><b>Profile Screen</b><br>User profile with customizable settings and bio</p>
+  </div>
+  <div>
+    <img src="screenshots/homepage.jfif" alt="Homepage Screen" width="200"/>
+    <p><b>Homepage</b><br>Main dashboard with featured products and categories</p>
+  </div>
+  <div>
+    <img src="screenshots/checkout.jfif" alt="Checkout Screen" width="200"/>
+    <p><b>Checkout Screen</b><br>Secure payment and order processing</p>
+  </div>
+</div>
+
 ## Getting Started
 
 ### Prerequisites
