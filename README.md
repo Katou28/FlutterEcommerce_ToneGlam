@@ -100,6 +100,7 @@ lib/
 - `shared_preferences`: Local storage
 - `flutter_local_notifications`: Notification handling
 
+<<<<<<< HEAD
 ## Contributing
 
 1. Fork the repository
@@ -117,3 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
 Project Link: [https://github.com/yourusername/toneglam](https://github.com/yourusername/toneglam)
+=======
+## Contact
+[@Facebook](https://www.facebook.com/josue.cuarezsalon)
+>>>>>>> f42ab689ac8179b8122232d52e74b23145779198
