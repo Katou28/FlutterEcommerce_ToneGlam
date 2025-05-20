@@ -94,5 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [@Facebook](https://www.facebook.com/josue.cuarezsalon)
-
-Project Link: [https://github.com/yourusername/toneglam](https://github.com/yourusername/toneglam)
