@@ -1,0 +1,60 @@
+name: toneglam
+description: "Your Perfect Shade meets the Perfect You."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  intl: ^0.18.0
+  provider: ^6.0.5
+  image_picker: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Products/Warm/
+    - assets/Products/Cool/
+    - assets/Products/Neutral/
+    - assets/Products/Warm/Vice Cosmetics – One & Done Brontour Stick(achieve).png
+    - assets/Products/Warm/ISSY – Creme Cheek Blush(karma).png
+    - assets/Products/Warm/Colourette – First Base Skin Tint(siargao).png
+    - assets/Products/Warm/ISSY – Skin Tint(brulee).jpg
+    - assets/Products/Warm/ISSY – Creme Cheek Blush(bang).jpg
+    - assets/Products/Warm/Vice Cosmetics – Dew It All Liquid Blush.png
+    - assets/Products/Cool/Strokes – Face Sculpt Cream Contour Stick(peanut).png
+    - assets/Products/Cool/Strokes – Soft Veil Filter Foundation(light 01).png
+    - assets/Products/Cool/Ever Bilena – Two Way Cake(Oriental).png
+    - assets/Products/Cool/GRWM – Milk Tint Creamy Tint(material girl).png
+    - assets/Products/Cool/Happy Skin – Second Skin Tinted Moisturizer(light).png
+    - assets/Products/Cool/Blk Cosmetics – Life-proof Airy Concealer(cream).png
+    - assets/Products/Neutral/Colourette – Second Base Concealer(lazi).png
+    - assets/Products/Neutral/Careline - Acne Spot Concealer(natural).jpg
+    - assets/Products/Neutral/Teviant - The Ultimate Skin Master Foundation(Eggshell (Light 3).png
+    - assets/Products/Neutral/Sunnies Face – Skin So Goog The powder(sesame).png
+    - assets/Products/Neutral/Maybelline - Sunkisser Hazy Matte Blush(spicy red).jpg
+    - assets/Products/Neutral/Maybelline – Matte + Poreless Liquid Foundation(buff beige).png
+    - assets/google.png
+    - assets/facebook.png
+    - assets/logo/Toneglam.png
+    - assets/ArticlePhoto/
+    - assets/RandomUser/
+    - assets/logo/app_icon.png
+
+flutter_icons:
+  android: true
+  ios: false # set to true if you want to update iOS icons too
+  image_path: "assets/logo/app_icon.png" # update this path to where your icon is
